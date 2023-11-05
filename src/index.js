@@ -18,7 +18,7 @@ import {
 
 const router = createBrowserRouter([
     {
-        path: "/kles25/vp-application.git",
+        path: "/vp-application",
         element: <App />,
     },
     {
